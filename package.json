@@ -1,0 +1,14 @@
+{
+  "name": "booking_plans",
+  "version": "1.0.0",
+  "description": "Booking plan",
+  "main": "index.js",
+  "scripts": {
+    "compiling:sass": "node-sass sass/styles.scss CSS/style.css -w"
+  },
+  "author": "Chaker Ramdani",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
